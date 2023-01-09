@@ -1,0 +1,14 @@
+
+set_io signalA 2
+set_io clk 15
+
+set_io LED0 34
+set_io LED1 9
+set_io LED2 33
+set_io LED3 10
+set_io LED4 30
+set_io LED5 12
+set_io LED6 29
+set_io LED7 13
+
+set_io uart_txd 3
